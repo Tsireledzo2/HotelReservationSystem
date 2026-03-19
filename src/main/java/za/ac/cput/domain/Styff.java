@@ -40,6 +40,10 @@ public class Styff {
                 '}';
     }
 
+    public void buy(){
+        System.out.println("sdjsasda");;
+    }
+
     public static class Builder{
         private String id;
         private String name;
